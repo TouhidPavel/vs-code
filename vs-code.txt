@@ -1,0 +1,40 @@
+**************************************************
+Extensions
+**************************************************
+1. vscode-icons - VSCode Icons Team
+2. Live Server - Ritwick Dey
+3. Live Preview - Microsoft
+4. Auto Rename Tag - Jun Han
+5. Highlight Matching Tag - Vincaslt
+6. Path Intellisense - Christian Kohler
+7. IntelliSense for CSS class names in HTML - Zignd
+8. Color Highlight - Sergii N
+9. Code Spell Checker - Street Side Software
+10. Prettier - Code formatter - Prettier
+11. ESLint - Microsoft
+12. CodeSnap - adpyke
+13. Snipped - Jefferson Licet
+14. TabNine - tabnine.com
+15. Auto Import - ES6, TS, JSX, TSX - Sergey Korenuk
+16. npm Intellisense - Christian Kohler
+17. ES7+ React/Redux/React-Native snippets - dsznajder
+18. Stylelint - Stylelint
+19. Thunder Client - Thunder Client
+
+**************************************************
+Themes
+**************************************************
+1. Andromeda - Eliver Lara
+2. Dracula Theme Official - Dracula Theme
+3. Material Theme — Equinusocio
+
+**************************************************
+Fonts
+**************************************************
+1. JetBrains Mono
+2. Fira Code
+3. Cascadia Code
+4. Monaspace - https://github.com/githubnext/monaspace
+5. Operator Mono
+
+https://coding-fonts.netlify.app/fonts/anonymous-pro/?theme=dark
