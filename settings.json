@@ -26,12 +26,12 @@
   "editor.formatOnSave": true,
   "editor.tabSize": 4,
   "[javascript]": {
-    "editor.formatOnSave": false,
-    "editor.defaultFormatter": null
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascriptreact]": {
-    "editor.formatOnSave": false,
-    "editor.defaultFormatter": null
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.codeActionsOnSave": {
     // "source.fixAll.eslint": true,
@@ -39,6 +39,10 @@
     // "source.organizeImports": true
   },
   "eslint.alwaysShowStatus": true,
+
+  // Bracket Pair Colorization
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
 
   // Auto-save
   "files.autoSave": "afterDelay",
@@ -72,5 +76,6 @@
     "terminal.ansiRed": "#FB543F",
     "terminal.ansiWhite": "#A89984",
     "terminal.ansiYellow": "#FAC03B"
-  }
+  },
+  "tabnine.experimentalAutoImports": true
 }
